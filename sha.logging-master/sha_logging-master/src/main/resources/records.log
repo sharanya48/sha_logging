@@ -1,0 +1,12 @@
+INFO  SimpleInterest:11 - enter the principle amount
+INFO  SimpleInterest:13 - enter time period
+INFO  SimpleInterest:15 - enter rate of interest
+INFO  SimpleInterest:18 - Simple interest is 10.0
+INFO  CompoundInterest:11 - enter the principle amount
+INFO  CompoundInterest:13 - enter time period
+INFO  CompoundInterest:15 - enter rate of interest
+INFO  CompoundInterest:18 - Compound interest is 1296.8712300500013
+INFO  HouseConstruction:10 - enter your choice for material to be used
+INFO  HouseConstruction:11 - 1.Standard Materials 2.Above Standard Materials 3.High standard materials 4.High standard materials andAutomated house
+INFO  HouseConstruction:13 - Enter area of house in square feets
+INFO  HouseConstruction:16 - cost for constructing a house is 50000.0
